@@ -1,1 +1,8 @@
 //ovo je prva izmena ovdeS
+<script>
+   window.addEventListener('message', msgHandler, false);
+   function msgHandler(e) {
+	  document.getElementsByTagName('h1')[0].innerHTML = e.data;
+   }
+</script>
+//ova izmena postoji samo u foo2 branch
