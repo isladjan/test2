@@ -4,6 +4,9 @@
    function msgHandler(e) {
 	  document.getElementsByTagName('h2')[0].innerHTML = e.data;
    }
-   console.log('Hello there')
+   
+   console.log('Hello wrolde')
 </script>
 //ova izmena postoji samo u develom B
+
+//dodao sam jos neke izmene
