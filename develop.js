@@ -1,1 +1,1 @@
-..ovaj fajl postoji samo u Develop B//
+..ovaj fajl postoji samo u Develop B
