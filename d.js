@@ -6,4 +6,6 @@
    }
    console.log('Hello there')
 </script>
-//ova izmena postoji samo u develom B
+
+
+//new
