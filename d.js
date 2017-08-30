@@ -10,3 +10,5 @@
 //ova izmena postoji samo u develom B
 
 //dodao sam jos neke izmene
+
+//izmene dodate u dev2 branches
