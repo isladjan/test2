@@ -7,8 +7,8 @@
    
    console.log('Hello wrolde')
 </script>
-//ova izmena postoji samo u develom B
 
+
+//ova izmena postoji samo u dev2
 //dodao sam jos neke izmene
-
 //izmene dodate u dev2 branches

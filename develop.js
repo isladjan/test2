@@ -1,5 +1,6 @@
-..ovaj fajl postoji samo u Develop B//
+..ovaj fajl postoji samo u Dev2
 
+//slede izmene koje postoje samo u dev2 branches
 //sada ide bla bla
 <script>
   var myForm = document.myForm;
