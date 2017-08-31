@@ -7,5 +7,4 @@
    console.log('Hello there')
 </script>
 
-
-//new
+//ova izmena postoji u develop branch
