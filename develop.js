@@ -1,3 +1,4 @@
+
 ..ovaj fajl postoji samo u Dev2
 
 //slede izmene koje postoje samo u dev2 branches
@@ -29,3 +30,5 @@
 	 
 	
 </script>
+
+..ovaj fajl postoji samo u Develop B
